@@ -1,7 +1,8 @@
 # Project-01
 
-# Your Name
+# Diego Valle-Morfin
 
-# Your Github username
+# cocomaya0802
 
 # List the things you added for points
+
