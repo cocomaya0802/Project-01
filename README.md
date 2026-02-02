@@ -8,7 +8,7 @@
 
 More than 8 knots
 
-Ability to pick up items and change state of game
+Ability to pick up items and change state of game (Line 127)
 
 
 
